@@ -1,0 +1,78 @@
+﻿location,exposure,site,depth,quadrat_number2-highlight ones that needto be checked (weren't redone in 2023),year,surveyed_both_years,branching_coral,massive_coral,encrusting_coral,foliose_coral,plate_coral,soft_coral,solitary_coral,sponge,ascidian,macroalgae,rock_w_turf_new,rock_w_cca_new,rubble,sand,silt,standing_dead_coral,other
+Heron,Exposed,Eco 1,Deep,258,2021,yes,0,0.5,0.5,0,0,1,0,0,0,1,0,0,78.5,18.5,0,0,0
+Heron,Exposed,Eco 1,Deep,264,2021,yes,0,0,2,0,0,0,0,0,0,4,0,0,88.5,5,0,0.5,0
+Heron,Exposed,Eco 1,Deep,259,2021,yes,0,0,2,0,0,0,0,0,0,2,0,0,87,9,0,0,0
+Heron,Exposed,Eco 1,Deep,262,2021,yes,0,0,0,0,0,0,0,0,0,1,0,0,94,4,0,1,0
+Heron,Exposed,Eco 1,Deep,261,2021,yes,3,0,1,0,0,0,0,0,0,2,0,0,83,11,0,0,0
+Heron,Exposed,Eco 2,Deep,Unknown,2021,no?,0.5,0,0,0,0,0,0,0,2,2,0,0,95.5,0,0,0,0
+Heron,Exposed,Eco 2,Deep,265,2021,yes,0,0,0.5,0,0,0,0.5,0,0,0,0,0,99,0,0,0,0
+Heron,Exposed,Eco 2,Deep,298,2021,yes,4,0,0,0,0,0,1,0,0,1,0,0,93,0,0,1,0
+Heron,Exposed,Eco 2,Deep,Unknown,2021,no,0,0,0,0,0,0,5,0.5,0,0,0,0,94.5,0,0,0,0
+Heron,Exposed,Eco 1,Shallow,5,2021,no,2,0,1.5,0,0,0.5,0,0,0,14,3,0.5,78.5,0,0,0,0
+Heron,Exposed,Eco 1,Shallow,6,2021,no,6,2,1,0,1,7,3,0,0,11,3,1,63,0,0,2,0
+Heron,Exposed,Eco 1,Shallow,14,2021,yes,1,0,2,0,0,1,0,0,0,10,2,1,82,0,0,1,0
+Heron,Exposed,Eco 1,Shallow,13,2021,yes,1,0,4,4,0,3,1,0,0,3,8,6,68,0,0,2,0
+Heron,Exposed,Eco 1,Shallow,47,2021,yes,0.5,0,0.5,0,0,0.5,0,0,0,1,4,2,91.5,0,0,0,0
+Heron,Exposed,Eco 2,Shallow,267,2021,yes,5,0,4.5,3,0,0.5,0,0,0,4,9,4,70,0,0,0,0
+Heron,Exposed,Eco 2,Shallow,266,2021,yes,1,0,0.5,1,0,1,0,0,0,8,2,0,86.5,0,0,0,0
+Heron,Exposed,Eco 2,Shallow,270,2021,yes,3.5,0,1,0,0,0,1,0,0,3,20,4,63.5,0,0,4,0
+Heron,Exposed,Eco 2,Shallow,268,2021,yes,4.5,0,8.5,0,0,0,2.5,0,0,6,15,5,58.5,0,0,0,0
+Heron,Intermediate,Blue Pools,Blue  Pools,37,2021,no,0,0,0,0,0,0,0,0,0,1,4,0,77,18,0,0,0
+Heron,Intermediate,Blue Pools,Blue  Pools,38,2021,no,0,0,0,0,0,0,0,0,0,1.5,7,0,87.5,4,0,0,0
+Heron,Intermediate,Blue Pools,Blue  Pools,47,2021,no,0,0,0,0,0,0,0,0,0,0,3,0,95,2,0,0,0
+Heron,Intermediate,Blue Pools,Blue  Pools,50,2021,no,0,0,0,0,0,0,0,0,0,0,0,0,93,7,0,0,0
+Heron,Intermediate,First Point,Deep,201,2021,no,3,0,0,0,0,0,0,0,0,6,1,0,90,0,0,0,0
+Heron,Intermediate,First Point,Deep,226,2021,no,1,0,1,0,0,0,0,0,0,16,0,0,82,0,0,0,0
+Heron,Intermediate,First Point,Deep,231,2021,no,3,0,0,0,0,0,0,0,0,3,0,0,93,1,0,0,0
+Heron,Intermediate,First Point,Deep,260,2021,no,2,0,1,0,0,0,0,0,0,4,2,0,89,0,0,2,0
+Heron,Intermediate,First Point,Shallow,28,2021,no,3,0,1,0,0,0,2,0,0,2,2,1,89,0,0,0,0
+Heron,Intermediate,First Point,Shallow,202,2021,no,6,0,2,0,0,3,0,0,0,9,0,0,78,0,0,2,0
+Heron,Intermediate,First Point,Shallow,228,2021,no,1,0,0,0,0,0,0.5,0,0,2,0,0,87.5,8,0,1,0
+Heron,Intermediate,First Point,Shallow,297,2021,no,0.5,0,0,0,0,2,0.5,0,0,1,2,1,92.5,0,0,0.5,0
+Heron,Sheltered,Coral Gardens,Deep,251,2021,yes,2,0,0,0,0,0.5,0,0,0,0,0,0,90.5,6,0,1,0
+Heron,Sheltered,Coral Gardens,Deep,252,2021,yes,0,0,0,0,0,2,0,0,0,0.5,0,0,97.5,0,0,0,0
+Heron,Sheltered,Coral Gardens,Deep,256,2021,yes,0,0,0,0,0,0,0,0,0,2,0,0,98,0,0,0,0
+Heron,Sheltered,Coral Gardens,Deep,257,2021,yes,0.5,0,0,0,0,0,0,0,0,4,0,0,95.5,0,0,0,0
+Heron,Sheltered,Halfway,Deep,253,2021,yes,0,0,2,0,0,0,0,0,0,6,0,0,92,0,0,0,0
+Heron,Sheltered,Halfway,Deep,255,2021,yes,0.5,0,0.5,0,0,0,0,0.5,0,5,0,0,93.5,0,0,0,0
+Heron,Sheltered,Halfway,Deep,263,2021,yes,0,0,0,0,0,0,0,0,0,3,0,3,94,0,0,0,0
+Heron,Sheltered,Halfway,Deep,300,2021,yes,0,0,0.5,0,0,0,0,0.5,0,13,0,0,86,0,0,0,0
+Heron,Sheltered,Coral Gardens,Reef Flat,4,2021,no,3.5,0,3.5,0,0,0,0,0,0,1,0,0,88.5,3.5,0,0,0
+Heron,Sheltered,Coral Gardens,Reef Flat,26,2021,yes,3,0,0.5,0,0,0,0,0,0,0,0,0,80.5,16,0,0,0
+Heron,Sheltered,Coral Gardens,Reef Flat,27,2021,yes,5,0,0,0,0,0,0,0,0,0,0,0,89,1,0,5,0
+Heron,Sheltered,Coral Gardens,Reef Flat,227,2021,yes,0,0,0,0,0,0,0,0,0,0,0,0,86,9,0,5,0
+Heron,Sheltered,Halfway,Reef Flat,229,2021,yes,2,0,0,0,0,0,0,0,0,15,0,0,69,13,0,1,0
+Heron,Sheltered,Halfway,Reef Flat,230,2021,yes,1,0,0,0,0,0,0,0,0,10,0,0,74,15,0,0,0
+Heron,Sheltered,Halfway,Reef Flat,232,2021,yes,3.5,0,0,0,0,0,0,0,0,2,0,0,85.5,8,0,1,0
+Heron,Sheltered,Halfway,Reef Flat,233,2021,yes,1,0,0.5,0,0,0,0,0,0,12,0,0,78.5,8,0,0,0
+Heron,Sheltered,Coral Gardens,Shallow,204,2021,yes,2.5,0,0,5,0,0,0,0,0,20,0,0,72.5,0,0,0,0
+Heron,Sheltered,Coral Gardens,Shallow,205,2021,yes,4,0,0,0,0,0.5,0,0,0,13,0,0,82.5,0,0,0,0
+Heron,Sheltered,Coral Gardens,Shallow,254,2021,yes,0.5,0,0,0,0,0,0,0,0,15,0,0,84.5,0,0,0,0
+Heron,Sheltered,Coral Gardens,Shallow,296,2021,yes,0.5,0,0.5,0,0,0,0.5,0,0,10,0,0,88.5,0,0,0,0
+Heron,Sheltered,Halfway,Shallow,203,2021,yes,0,0,1,0,0,0,0,0,0,5,0,0,94,0,0,0,0
+Heron,Sheltered,Halfway,Shallow,269,2021,yes,0,0,0,0,0,0,0.5,0,0,6,0,0,93.5,0,0,0,0
+Heron,Sheltered,Halfway,Shallow,299,2021,yes,5,0,0,0,0,0,0,0,0,5,3,0,87,0,0,0,0
+Keppels,Exposed,Halfway Exposed,Shallow,148,2021,no,2,0,0,0,0,7,0,1,0,23,0,0,67,0,0,0,0
+Keppels,Exposed,Halfway Exposed,Shallow,149,2021,no,0.5,0,0.5,0,0,0,0.5,0,0.5,20,0,0,78,0,0,0,0
+Keppels,Exposed,Halfway Exposed,Shallow,150,2021,no,3,0,0,0,0,0,0,0.5,0,36,0,0,60.5,0,0,0,0
+Keppels,Exposed,Halfway Exposed,Shallow,15,2021,no,1.5,0,0,0,0,0,0,0.5,0,15,0,0,83,0,0,0,0
+Keppels,Exposed,Humpy Exposed,Shallow,23,2021,no,0,0,0,0,0,0,0.5,0,0,42,0,0,57.5,0,0,0,0
+Keppels,Exposed,Humpy Exposed,Shallow,24,2021,no,0,0,0,0,0,0,0.5,0.5,0,47,0,0,52,0,0,0,0
+Keppels,Exposed,Humpy Exposed,Shallow,32,2021,no,0.5,0,0,0,0,0,0,0,0,75,0,0,24.5,0,0,0,0
+Keppels,Exposed,Humpy Exposed,Shallow,34,2021,no,0,0,0,0,0,0,0,0,0,84,0,0,16,0,0,0,0
+Keppels,Exposed,Red Beach,Shallow,122,2021,no,0,0,0.5,0,0,0,3,1,0,87,0,0,8.5,0,0,0,0
+Keppels,Exposed,Red Beach,Shallow,123,2021,no,0,0,0,0,0,3,1,0,0,91,0,0,5,0,0,0,0
+Keppels,Exposed,Red Beach,Shallow,124,2021,no,0,0,0,0,0,2.5,0,0.5,0,73,0,0,24,0,0,0,0
+Keppels,Exposed,Red Beach,Shallow,125,2021,no,0,0,0.5,0,0,0.5,0,1,0,78,0,0,20,0,0,0,0
+Keppels,Sheltered,Clam Bay,Shallow,41,2021,no,0,0,0,0,0,0,0,0,0,77,0,0,23,0,0,0,0
+Keppels,Sheltered,Clam Bay,Shallow,111,2021,no,0,0,0,0,0,0,0,0,0,80,0,0,20,0,0,0,0
+Keppels,Sheltered,Clam Bay,Shallow,115,2021,no,0,0,0,0,0,0,0,0,0,70,0,0,30,0,0,0,0
+Keppels,Sheltered,Clam Bay,Shallow,121,2021,no,0,0,0,0,0,0,0,0,0,78,0,0,22,0,0,0,0
+Keppels,Sheltered,Halfway Sheltered,Shallow,25,2021,no,1,0,0,0,0,0,0,0,0,72,0,0,27,0,0,0,0
+Keppels,Sheltered,Halfway Sheltered,Shallow,33,2021,no,0,0,0,0,0,0,0,0,0,84,0,0,16,0,0,0,0
+Keppels,Sheltered,Halfway Sheltered,Shallow,146,2021,no,0,0,0,0,0,0,0,0.5,0,44,0,0,55.5,0,0,0,0
+Keppels,Sheltered,Halfway Sheltered,Shallow,147,2021,no,1,0,0,0,0,0,0,1,0,87,0,0,11,0,0,0,0
+Keppels,Sheltered,Humpy Sheltered,Shallow,21,2021,no,0,0,0,0,0,0,0,0,0,81,0,0,19,0,0,0,0
+Keppels,Sheltered,Humpy Sheltered,Shallow,22,2021,no,0,0,0,0,0,0,0,0,0,83,0,0,17,0,0,0,0
+Keppels,Sheltered,Humpy Sheltered,Shallow,31,2021,no,0,0,0,0,0,0,0,0,0,67,0,0,33,0,0,0,0
+Keppels,Sheltered,Humpy Sheltered,Shallow,35,2021,no,0,0,0,0,0,0,0,0,0,39,0,0,61,0,0,0,0
