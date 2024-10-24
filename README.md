@@ -23,3 +23,18 @@ Column I is the date of survey
 Column K specifies quadrat number: This is included in the binding/stability/rubble size etc. analyses in the manuscript because there are multiple measurements per quadrat.
 Column Q is the quadrat angle.
 Column T, U, V is patch width, length and area, in metres / metres cubed.
+Column Y is average bed depth in cm, an average of the 8 bed depth measurements in columns Z to AG
+Columns AH and AI are the piece numbers (number within quadrat and unique piece)
+Column AO is the maximum gap size from sampled piece to closed piece on right (cm)
+Column AR is the stability as binomial (either 0 not stable, or 1 stable) (Stable_0-1_v2)
+Column AU describes why the rubble piece is stable (Stable_description2)
+Column AW is the Widest_span_cm2 of each rubble piece - in cm.
+Column AZ is the morphology of each sampled rubble piece (Morphology2)
+Column BB is the number of branches for each sampled rubble piece (Num_branches2)
+Column BF is the number of binds for each sampled rubble piece (Number_binds2)
+Column BJ specified whether the sampled rubble piece is bound (1) or not (0) (Bound)
+Columns BO up to DA specify the binder type and length for each bind (up to 15 per sampled rubble piece).
+For these columns, the binder type is specified in the columns named Binder1-broad_cat, Binder2-broad_cat, Binder3-broad_cat and so on.
+And the binder length is specified in the columns Binder1_length_cm, Binder2_length_cm, Binder3_length_cm and so on. Other columns are superseded.
+
+
